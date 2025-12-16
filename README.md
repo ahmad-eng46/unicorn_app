@@ -72,6 +72,6 @@ src/
 ## Live URL
 
 ```bash
-npm run build
+https://unicorn-app-taupe.vercel.app/
 ```
 
